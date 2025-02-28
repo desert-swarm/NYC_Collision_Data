@@ -1,0 +1,5 @@
+pandas
+geopandas
+requests 
+google-cloud-bigquery
+pyarrow
